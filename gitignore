@@ -1,0 +1,45 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# Large datasets
+# =========================
+
+# Raw M5 data
+data/raw/*.csv
+
+# Processed / generated datasets
+data/*.parquet
+data/processed/*.parquet
+
+# =========================
+# IDE / editor files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs / temporary files
+# =========================
+*.log
+*.tmp
