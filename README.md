@@ -6,7 +6,7 @@ The project uses the **M5 Forecasting - Accuracy** dataset and develops a LightG
 
 ## Demo
 
-![Demand Forecasting Demo](assets/demand_forecasting_demo.gif)
+![Demand Forecasting Demo](assets/demand_forecasting.gif)
 
 The app lets a user search for an item, choose a store and forecast date, and generate a demand prediction using the trained model.
 
